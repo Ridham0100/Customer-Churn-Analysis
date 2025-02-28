@@ -7,11 +7,11 @@ This project aims to analyze customer churn using **Data Visualization, Predicti
 - **Data Cleaning & Preprocessing**: Handling missing values, outliers, and feature engineering.
 - **Exploratory Data Analysis (EDA)**: Visualizing customer trends, demographics, and churn behavior.
 - **Predictive Modeling**: Using machine learning models to predict churn probability.
-- **Business Intelligence Dashboard**: Interactive dashboards for stakeholders using Power BI/Tableau.
+- **Business Intelligence Dashboard**: Interactive dashboards for stakeholders using Power BI.
 - **Time Series Analysis**: Forecasting churn trends.
 
 ## 🚀 Technologies Used
 - **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly
-- **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forest, XGBoost
-\- **BI Tools**: Power BI / Tableau
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forest
+- **BI Tools**: Power BI
